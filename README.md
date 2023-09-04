@@ -8,7 +8,7 @@ We expect to have currently the following repositories:
 * The React-Native front-end
 * The GO Backend
 
-The editor configuration ![[.editorconfig|.editorconfig]] is to be used for the project as the code standard enforcer.
+An editor configuration for the backend is going to be provided alongside all other configuration files in this repository promptly.
 
 The preferred IDEs for development are up to the developer's choice. Suggested IDEs are:
 * VS Code
